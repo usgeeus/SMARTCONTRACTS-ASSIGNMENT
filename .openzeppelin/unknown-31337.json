@@ -1,0 +1,321 @@
+{
+  "manifestVersion": "3.2",
+  "admin": {
+    "address": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+    "txHash": "0x3c9123800de79c6d2f0712b052df585c9bcc8bd4e9b34c28fbc5474ad3dceee3"
+  },
+  "proxies": [
+    {
+      "address": "0x610178dA211FEF7D417bC0e6FeD39F05609AD788",
+      "txHash": "0x11a66b868e9465eb5d6c24a84589f365fbdcac6c186e728f5ff52e626c7eb6b1",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x0DCd1Bf9A1b36cE34237eEaFef220932846BCD82",
+      "txHash": "0xab3dd83c9e21cd9ce29c0c4056335cbc010d7dcac7147f74eefa1fb2456f24b5",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x0B306BF915C4d645ff596e518fAf3F9669b97016",
+      "txHash": "0x819a13326ed89d1b74d6c6e4307d5223af637c75bb18571e2be780a4c4c95670",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xc6e7DF5E7b4f2A278906862b61205850344D4e7d",
+      "txHash": "0xf5dc823dc9afd5170d670d96a2359d180af6594a82cb05d7c2863e9cfc61381c",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+      "txHash": "0x5f1256ca3c494fc811656a5fb89b8cfe18b889447abc8e5ef5d0faa30f5d1c16",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+      "txHash": "0xc26a89f2c371127bd98068fd74746d1dc63df1cd3040a388a81943ddcc880ec1",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9",
+      "txHash": "0xc365be50a474e2b412ba7a2eaf697aafad12965b5e4fd4446b8514ce33b3b3ba",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707",
+      "txHash": "0xc98869a431902ab78af4798ae0c10cebb69a77aa5388677a26cf885c91c0de52",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x0165878A594ca255338adfa4d48449f69242Eb8F",
+      "txHash": "0x1183f27f26fe1efa983109f18ff39b2fb584282c78346eae0d42564026055216",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853",
+      "txHash": "0xed8373dd0a9d6a5e675c876453a0a14c5757c370e5392287016af12f2615f86b",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x2279B7A0a67DB372996a5FaB50D91eAA73d2eBe6",
+      "txHash": "0x7fb5b8ec05a63f05743344ea652af9860cfc42b697b559fabdde104db2df6a8f",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x8A791620dd6260079BF849Dc5567aDC3F2FdC318",
+      "txHash": "0xc8074ea1b5c272985dd0478f2b014f6ed1c479cd3a2062b1c512a5c48f3ff527",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xB7f8BC63BbcaD18155201308C8f3540b07f84F5e",
+      "txHash": "0xdf0fd2f565ce2495fed507a09063290e3e878be7b462756ce9d03185a3629f20",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xA51c1fc2f0D1a1b8494Ed1FE312d7C3a78Ed91C0",
+      "txHash": "0xadaa2ee9cadd798cc02d79d67ee8b67278a9226989ed42076fdce0e8f98c9b54",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x9A676e781A523b5d0C0e43731313A708CB607508",
+      "txHash": "0x0d56e387bb857ee9ace5ee4b2df8a8fa83430c9cf364bf1939937d24210df1b0",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x959922bE3CAee4b8Cd9a407cc3ac1C251C2007B1",
+      "txHash": "0x348fd9e609f4b7d401910de7b80539f4332b8d075e39ef88eaca5dced74f4929",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x9A9f2CCfdE556A7E9Ff0848998Aa4a0CFD8863AE",
+      "txHash": "0x6ac8d39a793d0931fdab3b7a7d80722e83dbc53a906e65562fa4e6e21d3f87ef",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x68B1D87F95878fE05B998F19b66F4baba5De1aed",
+      "txHash": "0xaa3cf23b4800e5cb5d425c8ad2ab00d42be144ebe1677b5a148867a857906856",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x3Aa5ebB10DC797CAC828524e59A333d0A371443c",
+      "txHash": "0x3d5feb066c4b2c39e44fc7d6eee251a5ce53c5d6951d86d8f3114a42ba7b301a",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x59b670e9fA9D0A427751Af201D676719a970857b",
+      "txHash": "0x2c2ef38c4812031c761329ac45357f86436ec30e1d60923d7f6766b712876dcc",
+      "kind": "transparent"
+    }
+  ],
+  "impls": {
+    "ba6f2670882b762193905fa1571c9e8e7f133906b1ba04da15b4e5a495716c38": {
+      "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+      "txHash": "0xdcae3380134d390e48921560baf2e6f957c574ae531024859a3fbfee51e8d209",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/utils/ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "geeTokenAddress",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_address",
+            "contract": "GeeTokenStake",
+            "src": "contracts/GeeTokenStake.sol:19"
+          },
+          {
+            "label": "version",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "GeeTokenStake",
+            "src": "contracts/GeeTokenStake.sol:31"
+          },
+          {
+            "label": "totalStakedAmount",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_uint256",
+            "contract": "GeeTokenStake",
+            "src": "contracts/GeeTokenStake.sol:32"
+          },
+          {
+            "label": "currentAssetId",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_uint256",
+            "contract": "GeeTokenStake",
+            "src": "contracts/GeeTokenStake.sol:33"
+          },
+          {
+            "label": "assets",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_mapping(t_uint256,t_struct(Asset)739_storage)",
+            "contract": "GeeTokenStake",
+            "src": "contracts/GeeTokenStake.sol:34"
+          },
+          {
+            "label": "assetIdsByAddress",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_mapping(t_address,t_array(t_uint256)dyn_storage)",
+            "contract": "GeeTokenStake",
+            "src": "contracts/GeeTokenStake.sol:35"
+          },
+          {
+            "label": "stakeProducts",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_mapping(t_uint256,t_uint256)",
+            "contract": "GeeTokenStake",
+            "src": "contracts/GeeTokenStake.sol:36"
+          },
+          {
+            "label": "lockPeriods",
+            "offset": 0,
+            "slot": "108",
+            "type": "t_array(t_uint256)dyn_storage",
+            "contract": "GeeTokenStake",
+            "src": "contracts/GeeTokenStake.sol:37"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_array(t_uint256)dyn_storage": {
+            "label": "uint256[]",
+            "numberOfBytes": "32"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_address,t_array(t_uint256)dyn_storage)": {
+            "label": "mapping(address => uint256[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Asset)739_storage)": {
+            "label": "mapping(uint256 => struct GeeTokenStake.Asset)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_uint256)": {
+            "label": "mapping(uint256 => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Asset)739_storage": {
+            "label": "struct GeeTokenStake.Asset",
+            "members": [
+              {
+                "label": "assetId",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "walletAddress",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "createdDate",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "unlockDate",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "percentInterest",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "geeTokenStaked",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "weiInterest",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "locked",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "7"
+              }
+            ],
+            "numberOfBytes": "256"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    }
+  }
+}
