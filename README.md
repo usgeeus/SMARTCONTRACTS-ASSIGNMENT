@@ -78,6 +78,7 @@ yarn hardhat test ./test/GeeTokenStakeUpgrades.test.js
 * deploy
  ```shell
 yarn hardhat node 
+
 yarn hardhat deploy
 
 yarn hardhat run scripts/deploy-upgradeable_geeTokenStake.js --network localhost
